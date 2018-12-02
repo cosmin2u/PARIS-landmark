@@ -26,14 +26,14 @@ public class MainActivity extends AppCompatActivity {
 
 
     private TensorFlowInferenceInterface inferenceInterface;
-    private static final String MODEL_FILE = "file:///android_asset/frozen_model_CIFARdinproiectgpu.pb";
+    private static final String MODEL_FILE = "file:///android_asset/frozen_model_CIFARlaptop.pb";
     /*
     Please note that the name of input and output nodes should match that of names we declared in
     our TensorFlow graph
      */
 
-    private static final String INPUT_NODE = "intrare:0"; // our input node
-    private static final String OUTPUT_NODE = "iesire"; // our output node
+    private static final String INPUT_NODE = "ipnode1"; // our input node
+    private static final String OUTPUT_NODE = "opnode"; // our output node
 
     private static final int[] INPUT_SIZE = {1,32,32,3};
 

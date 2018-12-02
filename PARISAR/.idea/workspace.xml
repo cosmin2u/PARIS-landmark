@@ -1,74 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="373261a5-d2b9-48f6-9b06-541d22277071" name="Default Changelist" comment="" />
+    <list default="true" id="373261a5-d2b9-48f6-9b06-541d22277071" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/app/src/main/java/com/example/enkay/cifar/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/app/src/main/java/com/example/enkay/cifar/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CIFAR-Android-TF-master/CIFAR-Android-TF-master/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PARISAR.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PARISAR.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_export.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_export.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1038862380">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="1336" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="1336" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1464995891">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="36" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="36" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model_export.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="119" column="89" lean-forward="true" selection-start-line="119" selection-start-column="89" selection-end-line="119" selection-end-column="89" />
+            <state relative-caret-position="528">
+              <caret line="173" selection-start-line="173" selection-end-line="173" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model_files/savegraph.pbtxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="224" column="17" selection-start-line="224" selection-start-column="17" selection-end-line="224" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -98,7 +68,11 @@
     <findStrings>
       <find>Y</find>
       <find>224</find>
+      <find>ipnode</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,9 +82,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1042" />
-    <option name="y" value="54" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="449" />
+    <option name="y" value="101" />
     <option name="width" value="974" />
     <option name="height" value="527" />
   </component>
@@ -131,6 +105,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -142,6 +117,11 @@
             <path>
               <item name="PARISAR" type="b2602c69:ProjectViewProjectNode" />
               <item name="PARISAR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PARISAR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PARISAR" type="462c0819:PsiDirectoryNode" />
+              <item name="model_files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,7 +154,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="D:\Anaconda3\envs\CIFAR\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\cosmi\Anaconda3\envs\SCCV\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -233,20 +213,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="288" y="236" width="974" height="527" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24679486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12170706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23220153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23185265" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -254,14 +234,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/model_export.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="119" column="89" lean-forward="true" selection-start-line="119" selection-start-column="89" selection-end-line="119" selection-end-column="89" />
+        <state relative-caret-position="528">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
           </folding>
@@ -275,6 +252,13 @@
           <folding>
             <element signature="e#1581#1619#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_files/savegraph.pbtxt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="224" column="17" selection-start-line="224" selection-start-column="17" selection-end-line="224" selection-end-column="17" />
         </state>
       </provider>
     </entry>
